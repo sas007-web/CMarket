@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "383463662132",
+    "project_id": "cmarket-3ce10",
+    "storage_bucket": "cmarket-3ce10.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383463662132:android:e2bf53f3ef23041a73e061",
+        "android_client_info": {
+          "package_name": "com.example.cmarket"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAP0FFWdlj4qp9jQYf7B43fcmfQEF5hHXc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
